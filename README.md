@@ -1,7 +1,7 @@
 # medium
 
 ## Content
--[Solid Design Principle](#Solid-Design-Principle)
+- [Solid Design Principle](#Solid-Design-Principle)
 
 # Solid-Design-Principle
 - The acronym SOLID was derived by Robert C.Martin also known as Uncle Bob. It defines the principle used in object-oriented design. These principles serve as a guide for software developers to build applications that are extensible and maintainable. Although Golang is partly object-oriented, as such it does not implement principles like inheritance, these SOLID principles can still be utilized with Go to build maintainable applications.
