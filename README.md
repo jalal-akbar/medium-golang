@@ -20,7 +20,7 @@
 - D: Dependency Inversion Principle(DIP)
 
 # Object-Oriented-Programming
-[ENCAPSULATION]
+### ENCAPSULATION
 - Encapsulation keeps data safe from external interferences. In oop languages, this is done at object level by the use of access modifiers. But in Golang, this is done at package level.
 - Go does not have access modifiers such as public, private or protected. Instead, there are exported and unexported fields. This difference comes from the first letters of the variables. Lowercase means unexported, capital means exported. You can think of this difference as private or public.
 ```go
